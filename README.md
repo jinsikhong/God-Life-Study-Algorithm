@@ -90,26 +90,6 @@ git commit -m "Hello World / 1분"
 <table>
     <tr>
         <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/62228401?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>정유빈</b>
-	    	<br/>
-          <!-- :white_check_mark: -->
-	        </sub>
-	    <br />
-	</td>
-        <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/94024391?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>장유진</b>
-	    	<br/>
-          <!-- :white_check_mark: -->
-	        </sub>
-	    <br />
-	</td>
-        <td align="center">
 	    	<img src="https://avatars.githubusercontent.com/u/21137298?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
