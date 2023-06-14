@@ -139,3 +139,25 @@ git commit -m "Hello World / 1분"
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [15886](https://www.acmicpc.net/problem/15886) |   [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)    |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20166](https://www.acmicpc.net/problem/20166) | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2412](https://www.acmicpc.net/problem/21758)  |        [암벽 등반](https://www.acmicpc.net/problem/2412)         |
+
+## 6.15 ~ 6.17(목, 금, 토) - 완전 탐색
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [14658](https://www.acmicpc.net/problem/14658)  | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062)  |
+
+## 6.19 ~ 6.21(월, 화, 수) - 그래프 탐색
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [6593](https://www.acmicpc.net/problem/6593)  | [상범빌딩](https://www.acmicpc.net/problem/6593)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14867](https://www.acmicpc.net/problem/14867) | [물통](https://www.acmicpc.net/problem/14867)  |
+
+
+## 6.22 ~ 6.24(목, 금, 토) - DP
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [5557](https://www.acmicpc.net/problem/5557)  | [1학년](https://www.acmicpc.net/problem/5557)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17070](https://www.acmicpc.net/problem/17070) | [파이프옮기기1](https://www.acmicpc.net/problem/17070)  |
