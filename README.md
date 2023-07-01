@@ -161,3 +161,11 @@ git commit -m "Hello World / 1분"
 | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [5557](https://www.acmicpc.net/problem/5557)  | [1학년](https://www.acmicpc.net/problem/5557)  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17070](https://www.acmicpc.net/problem/17070) | [파이프옮기기1](https://www.acmicpc.net/problem/17070)  |
+
+
+## 6.29 ~ 7.02(목, 금, 토, 일) - 이진탐색
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [2110](https://www.acmicpc.net/problem/2110)  | [공유기 설치](https://www.acmicpc.net/problem/2110)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470)  |
