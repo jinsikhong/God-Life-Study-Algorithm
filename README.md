@@ -7,30 +7,6 @@
 <table>
     <tr>
         <td align="center">
-	    <a href="https://github.com/youbeen2798">
-	    	<img src="https://avatars.githubusercontent.com/u/62228401?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>정유빈</b>
-	    	<br/>
-	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-	        </sub>
-	    </a>
-	    <br />
-	</td>
-        <td align="center">
-	    <a href="https://github.com/yoojinjangjang">
-	    	<img src="https://avatars.githubusercontent.com/u/94024391?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>장유진</b>
-	    	<br/>
-	    	<img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-	        </sub>
-	    </a>
-	    <br />
-	</td>
-        <td align="center">
 	    <a href="https://github.com/wjs5025">
 	    	<img src="https://avatars.githubusercontent.com/u/21137298?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
@@ -114,26 +90,6 @@ git commit -m "Hello World / 1분"
 <table>
     <tr>
         <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/62228401?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>정유빈</b>
-	    	<br/>
-          <!-- :white_check_mark: -->
-	        </sub>
-	    <br />
-	</td>
-        <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/94024391?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>장유진</b>
-	    	<br/>
-          <!-- :white_check_mark: -->
-	        </sub>
-	    <br />
-	</td>
-        <td align="center">
 	    	<img src="https://avatars.githubusercontent.com/u/21137298?v=4?s=100" width="100px;" alt=""/>
 	    	<br/>
 	    	<sub>
@@ -183,3 +139,40 @@ git commit -m "Hello World / 1분"
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  | [15886](https://www.acmicpc.net/problem/15886) |   [내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)    |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20166](https://www.acmicpc.net/problem/20166) | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2412](https://www.acmicpc.net/problem/21758)  |        [암벽 등반](https://www.acmicpc.net/problem/2412)         |
+
+## 6.15 ~ 6.17(목, 금, 토) - 완전 탐색
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [14658](https://www.acmicpc.net/problem/14658)  | [하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1062](https://www.acmicpc.net/problem/1062) | [가르침](https://www.acmicpc.net/problem/1062)  |
+
+## 6.22 ~ 6.24(목, 금, 토) - 그래프 탐색
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [6593](https://www.acmicpc.net/problem/6593)  | [상범빌딩](https://www.acmicpc.net/problem/6593)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14867](https://www.acmicpc.net/problem/14867) | [물통](https://www.acmicpc.net/problem/14867)  |
+
+
+## 6.26 ~ 6.28(월, 화, 수) - DP
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [5557](https://www.acmicpc.net/problem/5557)  | [1학년](https://www.acmicpc.net/problem/5557)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17070](https://www.acmicpc.net/problem/17070) | [파이프옮기기1](https://www.acmicpc.net/problem/17070)  |
+
+
+## 6.29 ~ 7.02(목, 금, 토, 일) - 이진탐색
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [2110](https://www.acmicpc.net/problem/2110)  | [공유기 설치](https://www.acmicpc.net/problem/2110)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470)  |
+
+## 7.06 ~ 7.08(목, 금, 토) - 투포인터/슬라이딩 윈도우
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |  [2531](https://www.acmicpc.net/problem/2531)  | [회전초밥](https://www.acmicpc.net/problem/2531)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1644](https://www.acmicpc.net/problem/1644) | [소수의 연속합](https://www.acmicpc.net/problem/1644)  |
