@@ -170,9 +170,16 @@ git commit -m "Hello World / 1분"
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [2110](https://www.acmicpc.net/problem/2110)  | [공유기 설치](https://www.acmicpc.net/problem/2110)  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2470](https://www.acmicpc.net/problem/2470) | [두 용액](https://www.acmicpc.net/problem/2470)  |
 
-## 7.06 ~ 7.08(목, 금, 토) - 투포인터/슬라이딩 윈도우
+## 7.10 ~ 7.12(월, 화, 수) - 투포인터/슬라이딩 윈도우
 
 |                                       난이도                                       |                      번호                      |                     문제 이름                     |
 | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |  [2531](https://www.acmicpc.net/problem/2531)  | [회전초밥](https://www.acmicpc.net/problem/2531)  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1644](https://www.acmicpc.net/problem/1644) | [소수의 연속합](https://www.acmicpc.net/problem/1644)  |
+
+## 7.13 ~ 7.15(목, 금, 토) - 그리디
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [2531](https://www.acmicpc.net/problem/2138)  | [전구와 스위치](https://www.acmicpc.net/problem/2138)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080)  |
