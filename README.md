@@ -190,3 +190,10 @@ git commit -m "Hello World / 1분"
 | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [1865](https://www.acmicpc.net/problem/1865)  | [웜홀](https://www.acmicpc.net/problem/1865)  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1738](https://www.acmicpc.net/problem/1738) | [골목길](https://www.acmicpc.net/problem/1738)  |
+
+## 7.27 ~ 7.29(목, 금, 토) - 그래프 서로소 집합
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [1976](https://www.acmicpc.net/problem/1976)  | [여행가자](https://www.acmicpc.net/problem/1976)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195)  |
