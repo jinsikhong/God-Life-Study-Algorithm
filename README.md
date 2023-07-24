@@ -183,3 +183,10 @@ git commit -m "Hello World / 1분"
 | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |  [2531](https://www.acmicpc.net/problem/2138)  | [전구와 스위치](https://www.acmicpc.net/problem/2138)  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1080](https://www.acmicpc.net/problem/1080) | [행렬](https://www.acmicpc.net/problem/1080)  |
+
+## 7.24 ~ 7.26(월, 화, 수) - 최단거리
+
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>  |  [1865](https://www.acmicpc.net/problem/1865)  | [웜홀](https://www.acmicpc.net/problem/1865)  |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1738](https://www.acmicpc.net/problem/1738) | [골목길](https://www.acmicpc.net/problem/1738)  |
