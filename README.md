@@ -197,3 +197,12 @@ git commit -m "Hello World / 1분"
 | :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |  [1976](https://www.acmicpc.net/problem/1976)  | [여행가자](https://www.acmicpc.net/problem/1976)  |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [4195](https://www.acmicpc.net/problem/4195) | [친구 네트워크](https://www.acmicpc.net/problem/4195)  |
+
+## 7.31 ~ 8.05(월~토) - 프로그래머스 해시 5문제
+|                                       난이도                                       |                      번호                      |                     문제 이름                     |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
+| 레벨 1  |  1845  | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)  |
+| 레벨 1  |  42576  | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)  |
+| 레벨 2  |  42577  | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)  |
+| 레벨 2  |  42578  | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)  |
+| 레벨 3  |  42579  | [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  |
