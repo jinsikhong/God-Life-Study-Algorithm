@@ -81,46 +81,13 @@ git commit -m "Hello World / 1분"
 
 # 5️⃣ 문제 선정 규칙
 
+### 백준
 - 1. 문제 담당자가 <a href="https://github.com/tony9402/baekjoon/blob/main/picked.md"> 랜덤 문제 사이트 </a> 에서 `총 3문제(골드 2문제 + 실버 1문제)`를 선정하여 README.md 파일을 update 한다.
 - 2. 문제 담당자는 아래 테이블 기준 1주일 마다 오른쪽으로 돌아가며 선정된다.
 - 3. 문제 담당자가 교체 되면 README.md 문제 담당자 테이블에서 체크 표시를 바꿔준다 !!
 
-# 문제 담당자
-
-<table>
-    <tr>
-        <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/21137298?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>전인혁</b>
-	    	<br/>
-           <!-- :white_check_mark: -->
-	        </sub>
-	    <br />
-	</td>
-        <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/74171272?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>최영환</b>
-	    	<br/>
-	    	<!-- :white_check_mark: -->
-	        </sub>
-	    <br />
-	</td>
-        <td align="center">
-	    	<img src="https://avatars.githubusercontent.com/u/28581484?v=4?s=100" width="100px;" alt=""/>
-	    	<br/>
-	    	<sub>
-	    	<b>홍진식</b>
-	    	<br/>
-           :white_check_mark: 
-	        </sub>
-	    <br />
-	</td>
-    </tr>
-</table>
+### 프로그래머스 
+- 코딩테스트 연습 문제 중 5문제 선정
 
 # ✅ 문제
 
